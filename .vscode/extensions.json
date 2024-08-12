@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "k--kato.docomment",
+        "ms-vscode.cpptools-themes",
+        "formulahendry.auto-complete-tag",
+        "akamud.vscode-theme-onedark",
+        "amazonwebservices.aws-toolkit-vscode",
+        "ms-toolsai.jupyter",
+        "amazonwebservices.amazon-q-vscode",
+        "blenderfreetimeprojects.blender-python-code-templates"
+    ]
+}
